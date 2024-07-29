@@ -1,0 +1,8 @@
+.itemsContainer{
+  text-align: left;
+  background-color: antiquewhite;
+  border: 2px solid;
+  margin: 50px;
+  padding-top: 10px;
+  max-width: 100%;
+}
